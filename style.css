@@ -45,6 +45,7 @@
     width: 7rem;
     height: 4rem;
     border-radius: .5rem;
+    overflow: hidden;
     opacity: .7;
     transition: opacity ease 250ms;
     box-shadow: 0 1rem 1rem -0.75rem rgba(0,0,0,0.75);
